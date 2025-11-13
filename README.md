@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF5F6D;">Kriyanshu Choudhary</span></h1>
 <h3 align="center">🚀 Data Analyst | Power BI | SQL | Excel | Tableau | Python</h3>
-
+<p align="center">
+  <img src="Laptop-With-Coffee-On-Table.png" alt="Data Analyst Banner" width="600"/>
+</p>
 <p align="center">
   📍 New Delhi, India • ✉️ <a href="mailto:choudharykriyanshu8476@gmail.com">choudharykriyanshu8476@gmail.com</a>
 </p>
@@ -15,18 +17,11 @@ I specialize in building **interactive dashboards**, conducting **EDA**, and cre
 ---
 
 ### 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
+**Tools:** Power BI • Tableau • MS Excel(Power Query, Pivot Tables, Charts, VLOOKUP)
+**Programming And Databases:** SQL Server, Python(Pandas, NumPy, Matplotlib, Seaborn)
 **Data Management:** ETL • Data Cleaning • Validation • Modeling  
-**Analytical Techniques:** EDA • KPI Tracking • Trend Analysis • Forecasting • Correlation Analysis  
-**Soft Skills:** Analytical Thinking • Problem Solving • Communication • Data Storytelling  
+**Analytical Techniques:** EDA • KPI Tracking • Trend Analysis • Forecasting 
+**Soft Skills:** Analytical Thinking • Problem Solving • Communication • Data Storytelling • Attention To Detail
 
 ---
 
@@ -64,15 +59,6 @@ _Alpine International School, Jalalabad (Shamli) (2020 – 2021)_
 
 🏅 **Data Science Certification – The XL Academy, Dwarka**  
 Practical, project-based training in **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL Server**, **Power BI**, **Tableau**, and **Excel**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KriyanshuChoudhary&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KriyanshuChoudhary&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
 
 ---
 
