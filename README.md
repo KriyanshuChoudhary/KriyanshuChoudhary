@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF5F6D;">Kriyanshu Choudhary</span></h1>
 <h3 align="center">🚀 Data Analyst | Power BI | SQL | Excel | Tableau | Python</h3>
 <p align="center">
-  <img src="Laptop-With-Coffee-On-Table.png" alt="Data Analyst Banner" width="600"/>
+  <img src="Data-Analyst-Illustration.png" alt="Data Analyst Illustration" width="600"/>
 </p>
 <p align="center">
   📍 New Delhi, India • ✉️ <a href="mailto:choudharykriyanshu8476@gmail.com">choudharykriyanshu8476@gmail.com</a>
